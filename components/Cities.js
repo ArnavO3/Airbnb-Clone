@@ -56,7 +56,7 @@ function Cities({}) {
 
         <section className="text-white">
           <h1 className="text-4xl font-semibold pb-5">Live Anywhere:</h1>
-          <div className="flex space-x-4 overflow-scroll overflow-y-hidden scrollbar-hide p-5 -ml-8 pb-11">
+          <div className="flex space-x-4 overflow-scroll overflow-y-hidden scrollbar-hide p-5 -ml-8 pb-20">
             <MediumCards location="Outdoor Getaways" img={mdPic1} />
             <MediumCards location="Out of the Box Architecture" img={mdPic2} />
             <MediumCards location="Aesthetic Locations" img={mdPic3} />
